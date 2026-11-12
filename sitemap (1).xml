@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Primary Home & ABI Calculator -->
+  <url>
+    <loc>https://ankle-brachial.site/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Toe-Brachial Index (TBI) Calculator -->
+  <url>
+    <loc>https://ankle-brachial.site/toe-brachial-index-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- ABI Normal Range & Visual Chart -->
+  <url>
+    <loc>https://ankle-brachial.site/abi-normal-range.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- ABI for Diabetics & Medial Calcification -->
+  <url>
+    <loc>https://ankle-brachial.site/abi-for-diabetics.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- ABPI Calculator (UK/Europe) -->
+  <url>
+    <loc>https://ankle-brachial.site/abpi-calculator.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- What ABI ≤ 0.90 Means -->
+  <url>
+    <loc>https://ankle-brachial.site/abi-0-9-meaning.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- About Us & Author: Hashir Ali -->
+  <url>
+    <loc>https://ankle-brachial.site/about.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact & Editorial Correspondence -->
+  <url>
+    <loc>https://ankle-brachial.site/contact.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://ankle-brachial.site/privacy.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Terms of Service -->
+  <url>
+    <loc>https://ankle-brachial.site/terms.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>
